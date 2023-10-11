@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee4048d9-4f3b-4ccb-9ccb-06c1c5cc3292/deploy-status)](https://app.netlify.com/sites/wahed-car-showcase/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
